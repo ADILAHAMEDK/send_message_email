@@ -14,7 +14,7 @@ const Header = () => {
     <div className="bg-black text-white">
       <div className="py-3 px-3 max-w-[1490px] mx-auto flex items-center justify-between gap-1 lg:gap-3">
         <a to="/" className="text-lg font-semibold">
-          ShoeShack
+          Email
         </a>
         <div className="hidden lg:flex md:gap-5 xl:gap-9 text-base">
           <a to="/" className="hover:underline">
